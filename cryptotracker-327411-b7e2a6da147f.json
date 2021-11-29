@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cryptotracker-327411",
+  "private_key_id": "b7e2a6da147f57249dac63b6585a9f5e70a60d88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqrcBJckYBxv5n\npj21nwnBDm+DRsP9yXny5eVLo5mtVQ/1IYrDSrfm552siy1HkxRCOlsE6F0/W+iV\n8XCq6O7QB1w3hqX/APXkOPnsiOihBAoPkmqKaI8W81LTaR5ZcNs6Mjp0nzPZttGx\nt95kWocizOWLA4LoAfmuPSoputREbJPilKkL4lSnszcSdtKUdM9cmuaWhc+44nqi\nR8dc+9JurCKZVQFs3mp2g4Y+yR3g2pqpoJzTpOy4RofrnQOmmnTOBtLNG6FNgC/i\nkm8IEuIxNjem7FIJF9QgDs2PknuD5TWgSI8OYRiHmmNqKriGucnD/XzKgwXwZhaA\nROlyi2HPAgMBAAECggEACVgy9DJ4wvJZc/5MWAXDKHOfk/EYNbksRcN9dTgAGwo4\n5SOQr9ZTt3Il4unJysBMNlk9XRYfVaLOdJ5ZgoBdsG9x7PftXa1FSSX8O1pX9jAJ\nuiy6slijWoI4hJE3edxUCSpX1fiJ0H+R/06asyVCGDWRbOkXzf3Rsc7w4IQ1YlUo\n1vD6yBEwvrnP2ZkwUSFl44f/yV0Fo71x3iTFPeh8LwwTTWbcJKbSZmLuzOAKGHwS\nC4hgSFCFR66/QNRSbmuoJRruav8E5RGcANfNh7g0R9jW++vteb5i6G5pxyAVB7tE\n2SMxw6SEhITBC9xvMZSuJU5kjwghpFHzSQBrsgkeRQKBgQDrtF1Q4MX7wmVyfG7/\nPzgqh2Q0kcECALb1Mwb9Pr0rHMuIYyeYMhAzSiF6wW1F2jPllZsscKDLJ0KJl5QL\nSu23FumH2wd9A9dltdhaPhWeRgf/MroCzr5CzYeHGy0tB4jwjehP6tBjSeqo9Q4F\nVMwetoMIZBE+0mQ8dCWopkzZUwKBgQC5YAWp9QvHlQx1aV8q2IOjzap/Unjcl0Br\nDvXj+c5RgjB1HrbM+M/lR97hr9r1KZBNYd+fwTN2jC74ZqiKWF9L4knEz7cgm2pe\nyzdwkXHEig/GSYmPU/zQHRLi4yLdRX6jmyUg4MdXVrIQW62lAMeCivXqfBlUs5nX\nfx5iBSR6FQKBgQCC70DfSt3wiv676G/ojv/ucCO0KDullywLbfs19wIyzt4pt5sp\nKrZhJ48NmCHRqfMmWENJHo/UCs0ljfSJiWggSzQTahLw2Y9wSuISz2ZG8/RBSbaX\nFK4QgggFf41K9GKX7tzceD6myUr37JmLUJ3Leeu0X5JM6acRBhxdYXRTTQKBgEaE\ny8LK0G9dOP8VVbmz4egXXgvPcODhvQS9DTdrmVwSfaKgS4QQBu4+9/+86TuoUxfM\n6sgYNB6d12RxkR4H3kC81blEF3MVDFMBVZbCDZhpuPSClwzqM1tsI/oh0+p+/Fz6\nsRYfzFViSpzEc3s4n6z+dex8xxoctKJw3jsFn8m9AoGBAINev39jJ1WUV9Tu3X86\nYZPO2LkL0mODNp3E6dMBgPcq/NZxrj0kQW20QgYry+KXQ25w4maaQjEzfUY9Xtga\nn8bGYOX3rd1dOU93wjl2PNmbR40ROWOJw/pVF6+nInWh2/aGfBWLl9dbY0j4sPFF\n0DVaf5f2qdZT7ssFEHhv6BKw\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@cryptotracker-327411.iam.gserviceaccount.com",
+  "client_id": "112252120170027336658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40cryptotracker-327411.iam.gserviceaccount.com"
+}
