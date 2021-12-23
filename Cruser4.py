@@ -18,7 +18,7 @@ InstList = []
 # PygSheets
 scope = ['https://www.googleapis.com/auth/spreadsheets,' 'https://www.googleapis.com/auth/drive.file',
          'https://www.googleapis.com/auth/drive']
-service_file = r'C:\Users\LEGUser\Desktop\Projects\cryptotracker-327411-b7e2a6da147f.json'
+service_file = #(Insert JSON Google API FILE here)
 gc = pygsheets.authorize(service_file=service_file)
 Worksheet = gc.open("Macquarie Doc Prep Pipeline")
 Worksheet2 = gc.open("Bot Processing")
